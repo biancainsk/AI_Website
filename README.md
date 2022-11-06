@@ -3,7 +3,7 @@
     2. Maximum Likelihood Estimation
     3. Bayesian Inference
 
-ESTIMATION PROBLEM: Understanding the height of Python programmers.
+ESTIMATION PROBLEM: Understanding the height of Python programmers.  
 A. We assume that the model which best describes the data generation process is GAUSSIAN (Normal) => We estimate the mean and std
 
 OBS:
